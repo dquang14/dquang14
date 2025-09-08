@@ -1,4 +1,4 @@
-![Banner](https://github.com/dquang14/dquang/blob/main/unity.webp)
+![Banner](https://github.com/dquang14/dquang14/blob/main/Screenshot%202025-03-13%20010817.png)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Nguyen Duc Quang</h2>
 
