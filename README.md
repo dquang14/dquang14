@@ -12,7 +12,7 @@
 🌱 &nbsp; I’m continuously improving my skills in Unity optimization, profiling, and performance debugging, while also exploring multiplayer basics.\
 🎮 &nbsp; In my free time, I love playing games and recreating or simulating their mechanics to deepen my understanding of game design.\
 ✉️ &nbsp;You can shoot me an email at dquang14kt@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1DTSPiGriozWDMgz2hxVmQ5eyJhUslAFn/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://github.com/dquang14/dquang14/blob/main/CV_NguyenDucQuang_UnityGameDeveloper.pdf) for more details about me. I'm open to feedback and suggestions!
 
 
 <img alt="Night Coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDVsdjcydWg3ZWFpcnRzMHcxaHpuanBwcHF5bnA1bHh0MmtvYnh1byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CrFLL3CnRpw5ddlBMm/giphy.gif" align="right"/>
